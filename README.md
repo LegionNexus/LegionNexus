@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on "anything worthy of my time"
 - 📫 How to reach me "pls don't atm"
 - 😄 Pronouns: Trans (see below)
-- ⚡ Fun fact: I used to be an IT, currently (trans)itioning to be developer
+- ⚡ Fun fact: I used to be an IT, currently (trans)itioning to be a developer
 
 <!---
 LegionNexus/LegionNexus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
